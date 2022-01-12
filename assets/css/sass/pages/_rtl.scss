@@ -282,7 +282,7 @@ header {
   .nav-pills {
     .nav-link {
       &.active {
-        @include prefixer(box-shadow, 5px 0px 0px 0px #165df5, webkit moz o ms);
+        @include prefixer(box-shadow, 5px 0px 0px 0px #005EB8, webkit moz o ms);
       }
     }
   }
