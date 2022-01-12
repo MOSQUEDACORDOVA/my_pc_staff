@@ -10112,7 +10112,7 @@ software_web
 .need_help_sec .block_help {
   position: relative;
   overflow: hidden;
-  background-color: #040309;
+  background-color: #071D49;
   border-radius: 12px;
   padding: 3rem;
   z-index: 1;
@@ -20054,7 +20054,7 @@ html:not(.no-js) [data-aos="fade-up"] {
 -----------------------------*/
 .foot_demo2 {
   position: relative;
-  background-color: #040309 !important;
+  background-color: #071D49 !important;
   z-index: 1;
   overflow: hidden;
 }
